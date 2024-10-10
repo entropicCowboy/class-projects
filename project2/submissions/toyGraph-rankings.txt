@@ -1,0 +1,7 @@
+iterations hit: 100
+ 1  id: "site3" rankScore: 0.38613758429609607
+ 2  id: "site0" rankScore: 0.19487692876281446
+ 3  id: "site1" rankScore: 0.19487692876281446
+ 4  id: "site4" rankScore: 0.11205423535076936
+ 5  id: "site2" rankScore: 0.11205423535076936
+Time taken: 0.002
